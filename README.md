@@ -2,11 +2,13 @@
 
 Signals, componentes, directivas, servicios, mapas,, JWT, autenticación, despliegues, mongo, Git, GitHub y mucho más
 
-Creado por: [Fernando Herrera](https://www.udemy.com/course/angular-fernando-herrera/#instructor-1)
+Curso creado por: [Fernando Herrera](https://www.udemy.com/course/angular-fernando-herrera/#instructor-1)
 
 Enlaces al curso de Angular de cero a experto - Edición 2023:
 * [{dev/talles}](https://cursos.devtalles.com/courses/angular)
 * [Udemy](https://www.udemy.com/course/angular-fernando-herrera/)
+
+<br>
 
 ## Proyectos realizados
 
@@ -23,3 +25,9 @@ Enlaces al curso de Angular de cero a experto - Edición 2023:
 11. [Directive Signals App](https://github.com/AAGuedes/angular-directivas-signals)
 12. [Nest Backend](https://github.com/AAGuedes/angular-mean-nest)
 13. [Auth App](https://github.com/AAGuedes/angular-auth-app)
+14. [Bonus: Maps App](https://github.com/AAGuedes/angular-maps-app)
+
+<br>
+
+## Certificado de finalización
+![Image](./img//cert.jpg)
