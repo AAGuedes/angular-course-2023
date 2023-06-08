@@ -4,7 +4,9 @@ Signals, componentes, directivas, servicios, mapas,, JWT, autenticación, despli
 
 Creado por: [Fernando Herrera](https://www.udemy.com/course/angular-fernando-herrera/#instructor-1)
 
-Enlace al curso: [Udemy - Angular: De cero a experto - Edición 2023](https://www.udemy.com/course/angular-fernando-herrera/)
+Enlaces al curso de Angular de cero a experto - Edición 2023:
+* [{dev/talles}](https://cursos.devtalles.com/courses/angular)
+* [Udemy](https://www.udemy.com/course/angular-fernando-herrera/)
 
 ## Proyectos realizados
 
